@@ -1,5 +1,5 @@
 # CV_ImageProcessing
-### For specific result of each process, checkout the readme.txt of each folder
+### 🎯For specific result of each process, checkout the readme.txt of each folder
 
 > Fundamental Image processing techniques for Computer Vision
 > 
