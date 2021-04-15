@@ -1,9 +1,4 @@
 
-This code is built to perform rotation of images using two different interpolation methods.
-Function myrotate includes the content below.
-a. Nearest Neighbor method
-b. Bilinear method
-
 # Image Rotation
 ### 🎯 This code is built to perform rotation of images using two different interpolation methods.
 ### Function myrotate includes the content below.
