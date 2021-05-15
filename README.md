@@ -46,3 +46,8 @@
     - Canny_Edge_Detection : Using opencv::Canny
     - LoG : Laplacian of Gaussian
     - Harris_corner : Harris corner Detector using cv::cornerHarris. Added non-maximum suppression and subpixel accuracy
+
+7. SIFT algotithm
+
+8. Hough transform and Homography
+
